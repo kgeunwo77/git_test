@@ -1,5 +1,2 @@
 hello world
-git oh
- test ~ complete
- 
- changed
+changed
